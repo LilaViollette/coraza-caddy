@@ -1,4 +1,4 @@
-module github.com/corazawaf/coraza-caddy/v2
+module github.com/LilaViollette/coraza-caddy/v2
 
 go 1.26.0
 
